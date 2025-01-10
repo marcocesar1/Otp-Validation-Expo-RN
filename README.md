@@ -52,8 +52,8 @@ Join our community of developers creating universal apps.
 
 ## App Screenshots
 
-![Alt text](assets/screens/1.png "1")
-![Alt text](assets/screens/2.png "2")
-![Alt text](assets/screens/3.png "3")
-![Alt text](assets/screens/4.png "4")
-![Alt text](assets/screens/5.png "5")
+![Alt text](assets/screens/1.PNG "1")
+![Alt text](assets/screens/2.PNG "2")
+![Alt text](assets/screens/3.PNG "3")
+![Alt text](assets/screens/4.PNG "4")
+![Alt text](assets/screens/5.PNG "5")
