@@ -56,4 +56,3 @@ Join our community of developers creating universal apps.
 ![Alt text](assets/screens/2.PNG "2")
 ![Alt text](assets/screens/3.PNG "3")
 ![Alt text](assets/screens/4.PNG "4")
-![Alt text](assets/screens/5.PNG "5")
