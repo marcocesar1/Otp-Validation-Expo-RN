@@ -35,6 +35,17 @@ export default function RootLayout() {
     <ThemeProvider value={colorScheme === "dark" ? DarkTheme : DefaultTheme}>
       <Stack>
         <Stack.Screen name="(auth)/index" options={{ headerShown: false }} />
+        <Stack.Screen
+          name="(auth)/otp-verification"
+          options={{ headerShown: false }}
+        />
+        <Stack.Screen
+          name="welcome/index"
+          options={{
+            title: "Welcome",
+            headerShown: false,
+          }}
+        />
         <Stack.Screen name="+not-found" />
       </Stack>
       <StatusBar style="auto" />
